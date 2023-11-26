@@ -111,12 +111,12 @@ author:
   location         : "Redon, Bretagne"
   email            : 
   links:
-    - label: "lecostaud@proton.me"
+    - label: "lecostaud@"
       icon: "fas fa-at"
-      url: "mailto:lecostaud@proton.me"
+      url: "mailto:lecostaud@"
     - label: "Anatole La Bricole"
       icon: "fab fa-mastodon"
-      url: "https://masto.bike/@anatolelabricole"
+      url: "https://masto.bike/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

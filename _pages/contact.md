@@ -11,8 +11,8 @@ header:
   overlay_filter: 0.5
   #overlay_filter: rgba(255, 0, 0, 0.5)
   actions:
-     - label: "anatole@murena.io"
-       url: "mailto:anatole@murena.io"
+     - label: "anatole@"
+       url: "mailto:anatole@"
 ---
 
 
@@ -24,4 +24,4 @@ header:
 - ou tout autre demande
 
 ## Envoyer-moi un email :  
-[anatole@murena.io](mailto:anatole@murena.io)
+[anatole@murena.io](mailto:anatole@)

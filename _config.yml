@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "fr-FR"
 title                    : "Le costaud"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Anatole"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,15 +104,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Anatole"
+  avatar           : "/assets/images/profil.jpg"
+  bio              : "Je fabrique des **vélos cargo** sur mesure avec des **matériaux de récupération**" # Note: Markdown is allowed
+
+  location         : "Redon, Bretagne"
+  email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    - label: "lecostaud@proton.me"
+      icon: "fas fa-at"
+      url: "mailto:lecostaud@proton.me"
+    - label: "Anatole La Bricole"
+      icon: "fab fa-mastodon"
+      url: "https://masto.bike/@anatolelabricole"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -140,7 +144,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/lecostaud"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

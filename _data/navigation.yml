@@ -9,6 +9,8 @@ main:
     url: /tags/
   - title: "Vélo 2"
     url: /veloa/
+  - title: "Vélo 3"
+    url: /velob/
   #- title: "Collections"
     #url: /collection-archive/
   

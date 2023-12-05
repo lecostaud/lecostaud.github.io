@@ -3,7 +3,7 @@ layout: single #splash
 permalink: /histoire/
 author_profile: #false
 ---
-# L'hisoire
+
 ## Qui suis-je ?
 Ingénieur en conception mécanique de formation, j'ai travaillé chez PSA dans la simulation numérique des crash tests pendant 3 ans.
 <figure>

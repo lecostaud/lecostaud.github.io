@@ -6,7 +6,7 @@ layout: single
 
 author_profile: true
 title: Vélo Le Costaud
-excerpt: "Fabrication de vélos cargo sur mesure avec des materiaux de récupération"
+excerpt: "Fabrication de vélos cargo avec des materiaux de réemploi"
 header:
   #overlay_color: "#333"
   overlay_image: /assets/images/header01.resized.jpg
@@ -14,7 +14,7 @@ header:
   #overlay_filter: rgba(255, 0, 0, 0.5)
   actions:
      - label: "Découvrir les vélos"
-       url: /velo/
+       url: /lescreations/
 
 #sidebar:
 #  - title: "Title"
@@ -25,6 +25,6 @@ header:
 #    text: "More text here."
 ---
 
-# Fabrication de vélos cargo sur mesure avec des materiaux de récupération
+# Fabrication de vélos cargo avec des materiaux de récupération
 
 ![image cargo](/assets/images/cargo01a.jpg)

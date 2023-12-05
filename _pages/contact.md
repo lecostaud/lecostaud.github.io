@@ -19,13 +19,13 @@ header:
 
 - une demande de vélo sur mesure
 - une transformation de votre vélo
-- une visite de l'atelier
+- une adaptation de porte baggage sur mesure
 - ou tout autre demande
 
 ## Envoyer-moi un email :  
-[anatole@lecostaud.io](mailto:anatole@lecostaud.io)
+[anatole@lecostaud.org](mailto:anatole@lecostaud.org)
 
-## Adresse de l'atelier :
+## Atelier :
 **Terrain vague**  
 Association *Les Circaciers*  
 83 rue de Vannes  

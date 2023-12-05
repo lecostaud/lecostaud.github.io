@@ -116,7 +116,7 @@ author:
       url: "mailto:anatole@lecostaud.org"
     - label: "Anatole La Bricole"
       icon: "fab fa-mastodon"
-      url: "https://masto.bike/"
+      url: "https://masto.bike/@anatolelabricole"
     - label: "lecostaud.org"
       icon: "fas fa-fw fa-link"
       url: # "https://lecostaud.org"

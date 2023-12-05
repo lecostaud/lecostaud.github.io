@@ -1,7 +1,7 @@
 ---
 layout: single
 
-Title: ¨les Vélos¨
+Title: ¨Vélos à vendre¨
 permalink: /velos/
 author_profile: true
 veloavendre: 5
@@ -11,18 +11,16 @@ veloavendre: 5
   {% for page in site.pages %}
     {% if page.categories contains "velo" %}
         <li>
-            <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-            <figure class="half">
+            <h2><a href="{{ page.url }}"> {{ page.title }}</a> {{ page.etat }}</h2>
+            {{ page.excerpt }}
+            <figure class="one">
                 <a href="{{ page.url }}"><img src="{{ page.image1 }}"></a>
-                <a href="{{ page.url }}"><img src="{{ page.image2 }}"></a>
-                <figcaption>{{ page.excerpt }}</figcaption>
+                <figcaption></figcaption>
             </figure>
-            <br>
             
         </li> 
     {% endif %}
-
-    
   {% endfor %}
 </ul>
+
 

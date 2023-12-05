@@ -1,11 +1,11 @@
 main:
   - title: "Les créations"
-    url: /crea/
+    url: /lescreations/
   - title: "Vélos à vendre"
     url: /velos/
   - title: "L'histoire"
     url: /histoire/
-  - title: "Blog"
-    url: /blog/
+  #- title: "Blog"
+  #  url: /blog/
   - title: Contact
     url: /contact/

@@ -1,3 +1,8 @@
+**Notice:** This is an important info notice.
+{: .notice}
+
+
+
 <h1>Les Vélos :</h1>
 
 <ul>

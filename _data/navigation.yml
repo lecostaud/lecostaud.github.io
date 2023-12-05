@@ -1,19 +1,11 @@
 main:
-  - title: Les Vélos
-    url: /velo/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Vélo 2"
-    url: /veloa/
-  - title: "Vélo 3"
-    url: /velob/
-  #- title: "Collections"
-    #url: /collection-archive/
-  
-
+  - title: "Les créations"
+    url: /crea/
+  - title: "Vélos à vendre"
+    url: /velos/
+  - title: "L'histoire"
+    url: /histoire/
+  - title: "Blog"
+    url: /blog/
   - title: Contact
     url: /contact/

@@ -20,11 +20,11 @@ title                    : "Le costaud"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anatole"
-description              : "An amazing website."
+description              : "Fabrication de vélos cargo artisanale avec des materiaux de récupération"
 url                      : "lecostaud.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/cargo2.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo/logoLC_noir.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : "true" # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -106,20 +106,20 @@ analytics:
 author:
   name             : "Anatole"
   avatar           : "/assets/images/profil.jpg"
-  bio              : "Je fabrique des **vélos cargo** sur mesure avec des **matériaux de récupération**" # Note: Markdown is allowed
+  bio              : "**Ingenieur en conception mécanique**, je fabrique des **vélos cargo** avec des matériaux de récupération" # Note: Markdown is allowed
 
   location         : "Redon, Bretagne"
   email            : 
   links:
-    - label: "lecostaud@"
+    - label: "anatole@lecostaud.org"
       icon: "fas fa-at"
-      url: "mailto:lecostaud@"
+      url: "mailto:anatole@lecostaud.org"
     - label: "Anatole La Bricole"
       icon: "fab fa-mastodon"
       url: "https://masto.bike/"
-    - label: "Website"
+    - label: "lecostaud.org"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: # "https://lecostaud.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -144,7 +144,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lecostaud"
+      url: # "https://github.com/lecostaud"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

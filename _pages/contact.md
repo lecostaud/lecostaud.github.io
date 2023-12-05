@@ -1,5 +1,4 @@
 ---
-#layout: splash
 layout: single
 author_profile: true
 permalink: /contact/
@@ -11,8 +10,8 @@ header:
   overlay_filter: 0.5
   #overlay_filter: rgba(255, 0, 0, 0.5)
   actions:
-     - label: "anatole@"
-       url: "mailto:anatole@"
+     - label: "anatole@lecostaud.io"
+       url: "mailto:anatole@lecostaud.io"
 ---
 
 
@@ -24,4 +23,10 @@ header:
 - ou tout autre demande
 
 ## Envoyer-moi un email :  
-[anatole@](mailto:anatole@)
+[anatole@lecostaud.io](mailto:anatole@lecostaud.io)
+
+## Adresse de l'atelier :
+**Terrain vague**  
+Association *Les Circaciers*  
+83 rue de Vannes  
+35600 Redon

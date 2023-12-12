@@ -6,7 +6,7 @@ permalink: /velos/
 author_profile: true
 veloavendre: 5
 ---
-# Les vélos
+# Les vélos à vendre
 <ul>
   {% for page in site.pages %}
     {% if page.categories contains "velo" %}

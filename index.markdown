@@ -45,7 +45,7 @@ Les vélos sont équipés de pièces de secondes mains provenant d'anciens vélo
 
 
 <figure class="one">
-    <img src="/assets/images/home/04.jpg">
+    <img src="/assets/images/home/05.jpg">
     <figcaption></figcaption>
 
 </figure>

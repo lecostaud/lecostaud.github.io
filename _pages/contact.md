@@ -7,8 +7,8 @@ excerpt: "N'hésitez pas à me contacter"
 header:
   #overlay_color: "#333"
   overlay_image: /assets/images/header04.jpg
-  overlay_filter: 0.5
-  #overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: 0.3
+  #overlay_filter: rgba(255, 0, 0, 0.3)
   actions:
      - label: "anatole@lecostaud.io"
        url: "mailto:anatole@lecostaud.io"

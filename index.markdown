@@ -27,21 +27,21 @@ header:
 
 # Fabrication de vélos cargo
 
-Les vélos ***Le costaud*** sont des vélos cargo **utiles, robustes et durables** fabriqués en Bretagne avec des materiaux de récupération.
+Les vélos ***Le costaud*** sont des vélos cargo **utiles, robustes et durables** fabriqués en Bretagne avec des materiaux de réemploi.
 <figure class="one">
     <img src="/assets/images/home/01.jpg">
     <figcaption>Vélos cargo <b> Le Costaud </b></figcaption>
 
 </figure>
 
-Les cadres sont conçus et soudés à partir d'anciens cadre de vélos, de tubes de récupérations et de tubes neufs pour garantir la solidité des cadres. Pour assurer la bonne tenue dans le temps, les cadres sont sablés puis thermolaqués (peinture professionelle epoxy cuite au four) à moins de 10km de l'atelier.
+Les cadres sont conçus et soudés à partir d'anciens cadre de vélos et de tubes neufs pour garantir la solidité des cadres. Pour assurer la bonne tenue dans le temps, les cadres sont sablés puis thermolaqués (peinture professionelle epoxy cuite au four) à moins de 10km de l'atelier.
 <figure class="half">
     <a href="/assets/images/home/02.jpg"><img src="/assets/images/home/02.jpg"></a>
     <a href="/assets/images/home/03.jpg"><img src="/assets/images/home/03.jpg"></a>
     <figcaption>Atelier de fabrication et cadre avec peinture thermolaquage</figcaption>
 
 </figure>
-Les vélos sont équipés de pièces de secondes mains provenant d'anciens vélos haut de gamme. Ces anciennes pièces sont généralement de meilleure qualités et plus durable que les pièces neuves d'aujourd'hui.
+Les vélos sont équipés de pièces de secondes main provenant d'anciens vélos haut de gamme. Ces anciennes pièces sont généralement de meilleure qualités et plus durable que les pièces neuves d'aujourd'hui.
 
 
 <figure class="one">
@@ -50,4 +50,14 @@ Les vélos sont équipés de pièces de secondes mains provenant d'anciens vélo
 
 </figure>
 
-Le but est de revaloriser d'anciens vélos (qui parfois dorment depuis des années dans nos garages). En les transformant en véhicules utiles, tout en limitant les émissions et les pollutions engendrés par la production de vélos neufs.
+Le but est de revaloriser d'anciens vélos (qui parfois dorment depuis des années dans nos garages) en les transformant en véhicules utiles, tout en limitant les émissions et les pollutions engendrés par la production de vélos neufs.
+
+# Fabrication sur mesure
+
+- Je fabrique tout types de vélos cargo en fonction de vos besoins spécifiques.
+- Je transforme votre vélo pour y ajouter des équipements comme des portes baggages sur mesures par exemple.  
+<figure>
+    <img src="/assets/images/histoire/anatole-atelier.jpg">
+    <figcaption></figcaption>
+</figure>
+N'hesitez pas à me contacter pour discuter des aménagements possible en fonction de vos besoins : [anatole@lecostaud.org](mailto:anatole@lecostaud.org)

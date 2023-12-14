@@ -33,19 +33,19 @@ Après 5 ans sur la route, nous avons pris la décision de rentrer en France pou
 
 ## Mes valeurs
 Depuis 2018, je me suis passionné par l'ecologie, l'énergie, l'économie, la finance et la géopolitique. J'ai passé des miliers d'heures à lire des livres, lire des médias indépendant et écouter des conférences sur ces sujet. Le voyage m'a aussi ouvert l'esprit et fait prendre du recul sur nos modes de vies.
- Je pense que continuer cette poursuite du profit à tout prix dans notre monde capitaliste est une erreur et nous devrions mieux trouver des solutions ensembles pour faire face aux divers crises que nous allons devoir surmonter.  
+ Je pense que continuer cette poursuite du profit à tout prix dans notre monde capitaliste est une erreure. 
 
  J'ai alors pris la décision de ne plus exercer en tant qu'ingenieur pour une entreprise qui cherche la croissance. Mais plutôt d'utiliser mes compétences pour développer la cyclologistique en fabricant des vélos cargos utiles, robustes et durables qui permettrons de maintenir une économie dans un monde avec des contraintes énergétiques, économiques et géopolitique de plus en plus fortes.
 
 ## Pourquoi fabriquer des vélos recylés ?
- Pour limiter au maximun la dépendance aux produits importés, ainsi que pour éviter les émissions liés à la fabrications de produits neufs, je fabrique les vélos cargo avec des pièces d'occasion d'anciens vélos haut de gamme qui sont plus durables que les vélos récents. Je fabrique les cadres sur mesure avec des tubes soudés de récupération ou neufs pour assurer la bonne résistance des vélos.
+ Pour limiter au maximun la dépendance aux produits importés, ainsi que pour éviter les émissions liés à la fabrications de produits neufs, je fabrique les vélos cargo avec des pièces d'occasion d'anciens vélos haut de gamme, plus durables que les vélos récents. Je fabrique les cadres sur mesure avec des tubes soudés de récupération ou neufs pour assurer la bonne résistance des vélos.
 <figure>
     <img src="/assets/images/histoire/anatole-atelier.jpg">
     <figcaption></figcaption>
 </figure>
 
 ## Atelier mobile
-Vivant dans un camion, j'ai décidé de fabriquer une remorque atelier pour stocker et transporter mon materiel. Pour l'instant, mon atelier est dans le hangard de l'association Les circaciers à Redon.
+Vivant dans un camion, j'ai décidé de fabriquer une remorque atelier pour stocker et transporter mon materiel. Pour l'instant, mon atelier est dans les locaux de l'association Les circaciers à Redon.
 <figure>
     <img src="/assets/images/histoire/remorque.jpeg">
     <figcaption>Ma remorque atelier fait maison</figcaption>

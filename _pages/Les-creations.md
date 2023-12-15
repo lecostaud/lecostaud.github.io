@@ -30,7 +30,7 @@ Le petit costaud est un biporteur qui permet un grand volume de chargement avec 
     <figcaption></figcaption>
 </figure>
 
-- un tressage en chambres à air pour un chargement souple :
+- un tressage en chambre à air pour un chargement souple :
 <figure class="one">
     <a href="/assets/images/lescreations/10.jpg"><img src="/assets/images/lescreations/10.jpg"></a>
 </figure>

@@ -15,15 +15,15 @@ Le petit costaud est un biporteur qui permet un grand volume de chargement avec 
 
 
 **Caractéristiques :**
-- longueur totale 2M
-- taille : 1m70-1m85
-- plateu de chargement 50 x 85 cm
+- longueur totale 2M05
+- Cadre taille 56 pour personne entre 1m70 et 1m85
+- plateau de chargement 50 x 85 cm
 - chargement maximum : 80kg
 - béquille cargo 100kg (Ursus Jumbo)
 - selle sur amortisseur
-- 24 vitesses (3 x8)
+- 24 vitesses (3 x 8)
 - roue avant renforcée de BMX en 20 pouces
-- roue arrière 26 pouces avec pneu gravel renforcé (pas sur les photos)
+- roue arrière 26 pouces avec pneu gravel anti-crevaison (pas sur les photos)
 
 <figure class="half">
     <a href="/_pages/velos/2023-02/05.jpg"><img src="/_pages/velos/2023-02/05.jpg"></a>
@@ -35,6 +35,10 @@ Le petit costaud est un biporteur qui permet un grand volume de chargement avec 
 
 
 
-**À vendre :** 1480 euros
+**À vendre :** 1480 euros  
+
+Ce vélo est éligible à une **aide de l'état** à hauteur de 40% soit **592 Euros** jusqu'au 31 décembre 2023 : [https://www.service-public.fr/particuliers/vosdroits/F36828](https://www.service-public.fr/particuliers/vosdroits/F36828)
 {: .notice--success}
+
+
 Contactez-moi : [anatole@lecostaud.org](mailto:anatole@lecostaud.org)

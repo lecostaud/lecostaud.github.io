@@ -13,8 +13,8 @@ header:
   overlay_filter: 0.5
   #overlay_filter: rgba(255, 0, 0, 0.5)
   actions:
-     - label: "Découvrir les vélos"
-       url: /lescreations/
+     - label: "Vélos à vendre"
+       url: /velos/
 
 #sidebar:
 #  - title: "Title"

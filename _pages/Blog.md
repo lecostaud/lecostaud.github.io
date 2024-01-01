@@ -8,9 +8,9 @@ permalink: /blog/
     
         <li>
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            {{ post.excerpt }}
+            <a href="{{ post.url }}"><img src="{{ post.header.teaser}}" width="200"></a><br>
+            {{ post.excerpt }}<br>
         </li> 
 
-    
   {% endfor %}
 </ul>

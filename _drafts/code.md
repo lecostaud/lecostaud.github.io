@@ -39,3 +39,8 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 {% include feature_row %}
+
+
+            <p class="notice">{{ page.etat }}</p>
+            {{ page.excerpt }}<br>
+            <figure class="one">

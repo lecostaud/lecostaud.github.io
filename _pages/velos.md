@@ -11,14 +11,10 @@ veloavendre: 5
   {% for page in site.pages %}
     {% if page.categories contains "velo" %}
         <li>
-            <h2><a href="{{ page.url }}"> {{ page.title }}</a> {{ page.etat }}</h2>
-            {{ page.excerpt }}
-            <figure class="one">
-                <a href="{{ page.url }}"><img src="{{ page.image1 }}"></a>
-                <figcaption></figcaption>
-            </figure>
-            
-        </li> 
+            <h2><a href="{{ page.url }}"> {{ page.title }}</a> ({{ page.etat }})</h2>
+            <a href="{{ page.url }}"><img src="{{ page.image1 }}"></a>
+        </li>
+        <a href="{{ page.url }}"> plus d'infos...</a> 
     {% endif %}
   {% endfor %}
 </ul>

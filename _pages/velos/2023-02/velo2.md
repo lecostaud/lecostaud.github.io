@@ -1,6 +1,6 @@
 ---
 title: "Le petit costaud"
-layout: single
+layout: velo
 categories: velo
 excerpt: "Le petit costaud est un biporteur très maniable qui permet un grand volume de chargement."
 image1: "/_pages/velos/2023-02/03.jpg"

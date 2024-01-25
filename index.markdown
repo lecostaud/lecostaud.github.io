@@ -61,3 +61,9 @@ Le but est de revaloriser d'anciens vélos (qui parfois dorment depuis des anné
     <figcaption></figcaption>
 </figure>
 N'hesitez pas à me contacter pour discuter des aménagements possibles en fonction de vos besoins : [anatole@lecostaud.org](mailto:anatole@lecostaud.org)
+
+# Actualités
+
+<iframe src="https://masto.bike/@anatolelabricole/111817371088209925/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="100%" allowfullscreen="allowfullscreen"></iframe><script src="https://masto.bike/embed.js" async="async"></script>
+
+Retrouvez toutes les dernières actualités sur [mon compte Mastodon](https://masto.bike/@anatolelabricole) (résau social open source et décentralisé)

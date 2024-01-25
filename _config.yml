@@ -116,7 +116,7 @@ author:
       url: "mailto:anatole@lecostaud.org"
     - label: "07 66 72 10 30"
       icon: "fas fa-phone"
-      url: "tel:0766721030"
+      url: # "tel:0766721030"
     - label: "Anatole La Bricole"
       icon: "fab fa-mastodon"
       url: "https://masto.bike/@anatolelabricole"

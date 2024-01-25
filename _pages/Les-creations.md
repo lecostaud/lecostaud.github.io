@@ -51,3 +51,28 @@ J'ai fabriqué le TallTwin bike en 2014. Je pensais l'utiliser quelques fois pou
     <a href="/assets/images/lescreations/talltwinbike.jpg"><img src="/assets/images/lescreations/talltwinbike.jpg"></a>
     <figcaption>Le TallTwin Bike lors du concours de Machins à Redon le 23/09/2023</figcaption>
 </figure>
+Le TallTwin Bike en vidéo : [youtube.com/TallTwinbike](https://www.youtube.com/TallTwinbike)
+
+## Volontariat en Afrique
+Lors de mon [tour d'Afrique](https://www.youtube.com/@LesMariolesTrotters) en van entre 2018 et 2023 j'ai fait un volontariat d'un mois pour l'association [Coop Africa](https://www.coop-africa.org/en/). Dans le cadre de ce volontariat, j'ai fabriqué :
+- Un vélo cargo
+<figure class="half">
+    <a href="/assets/images/lescreations/coopafrica/cargo-coop-africa1.jpg"><img src="/assets/images/lescreations/coopafrica/cargo-coop-africa1.jpg"></a>
+    <a href="/assets/images/lescreations/coopafrica/cargo-coop-africa4.jpg"><img src="/assets/images/lescreations/coopafrica/cargo-coop-africa4.jpg"></a>
+    <figcaption></figcaption>
+</figure>
+
+{% include video id="xYvyKa-yhfs" provider="youtube" %}
+
+- Un sèche linge à pédale
+<figure class="half">
+    <a href="/assets/images/lescreations/coopafrica/machine-a-laver2.jpg"><img src="/assets/images/lescreations/coopafrica/machine-a-laver2.jpg"></a>
+    <a href="/assets/images/lescreations/coopafrica/machine-a-laver1.jpg"><img src="/assets/images/lescreations/coopafrica/machine-a-laver1.jpg"></a>
+    <figcaption></figcaption>
+</figure>
+- Un tandem
+<figure class="half">
+    <a href="/assets/images/lescreations/coopafrica/tandem4.jpg"><img src="/assets/images/lescreations/coopafrica/tandem4.jpg"></a>
+    <a href="/assets/images/lescreations/coopafrica/tandem2.jpg"><img src="/assets/images/lescreations/coopafrica/tandem2.jpg"></a>
+    <figcaption></figcaption>
+</figure>

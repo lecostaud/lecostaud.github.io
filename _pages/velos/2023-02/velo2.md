@@ -35,9 +35,8 @@ Le petit costaud est un biporteur qui permet un grand volume de chargement avec 
 
 
 
-**À vendre :** 1200 euros  
 
-Ce vélo est éligible à une **aide de l'état** à hauteur de 40% soit **592 Euros** : [https://www.service-public.fr/particuliers/vosdroits/F36828](https://www.service-public.fr/particuliers/vosdroits/F36828)
+Ce vélo est éligible à une **aide de l'état** à hauteur de 40% [https://www.service-public.fr/particuliers/vosdroits/F36828](https://www.service-public.fr/particuliers/vosdroits/F36828)
 {: .notice--success}
 
 

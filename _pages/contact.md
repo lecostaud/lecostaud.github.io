@@ -10,8 +10,8 @@ header:
   overlay_filter: 0.3
   #overlay_filter: rgba(255, 0, 0, 0.3)
   actions:
-     - label: "anatole@lecostaud.io"
-       url: "mailto:anatole@lecostaud.io"
+     - label: "anatole@lecostaud.org"
+       url: "mailto:anatole@lecostaud.org"
 ---
 
 
